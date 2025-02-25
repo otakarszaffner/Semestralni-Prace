@@ -29,7 +29,7 @@ Hra by šla rozšířit o levely, a možností vylepšení zbraní a hráčovýc
 
 # Obsah souborů
 Demo obsahuje/používá 3 soubory s kodem a 26 obrázků
-V souboru images/player/player_animations jsou obrázky pro animaci hráče. Tyto obrázky nevyužívám, ale lze je v budoucnu použít pro vylepšení hry
+V souboru *images/player/player_animations* jsou obrázky pro animaci hráče. Tyto obrázky nevyužívám, ale lze je v budoucnu použít pro vylepšení hry
 Podobně v souboru background jsou obrázky background_x x = 1 - 8, jedná se o obrázky různých pozadí, lze je využít podobně
 V souboru menu je obrázek button_generic jedná se o defaultní obrázek ze kterého jsem vytvořil obrázky ostatních tlačítek, lze ho využít pro budoucí tvorbu dalších tlačítek
 
