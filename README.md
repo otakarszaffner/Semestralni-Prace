@@ -1,7 +1,7 @@
-## Semestralni-Prace
+# Semestralni-Prace
 Demo 2D hry z vrchního pohledu, střílečka
 
-# Úvod
+### Úvod
 Výsledkem mé semestrální je demo 2D hry, je to střílečka z vrchního pohledu. Cílem hráče je zabít nepřítele a přežít co nejdéle. Hráč může sbírat dva druhy itemů, životy a náboje.
 Itemy a nepřátelé se spawnují na náhodných pozicích v určených intervlech. Interval spawnutí itemů je kratší než interval spawnutí nepřítele.
 Nepřítele lze zabít pomocí střelby, nepřítel má určený počet životů a vydrží zásah 10 kulkami.
@@ -10,7 +10,7 @@ Hráčův progress ve hře zobrazuje počítadlo poražěných nepřátel v prav
 Podobně i ukazatel hráčových životů a počtu munice je zobrazen v levém horním rohu.
 Hráč může hru zastavit a v nastavení změnit velikost herního okna a hlasitosti hudby.
 
-# Herní ovládání a logika
+### Herní ovládání a logika
 Hráč se pohybuje pomocí tlačítek klávesnice w,s,a,d. Míří pomocí myši a střílí levým tlačítkem nebo pomocí mezerníku.
 Míření pomocí myši jsem udělal tak, že se pokaždé spočítá úhel mezi pozicí myši (minulé, a momentální) a pozicí hráče. Pomocí tohoto úhlu se obrázek hráče otočí na požadovanou pozici.
 
@@ -27,7 +27,7 @@ Příklady nových itemů: vylepšení (vetší demage co hráč způsobuje, vet
 
 Hra by šla rozšířit o levely, a možností vylepšení zbraní a hráčových schopností nebo o různé druhy obtížnosti hry.
 
-# Obsah souborů
+### Obsah souborů
 Demo obsahuje/používá 3 soubory s kodem a 26 obrázků
 V souboru *images/player/player_animations* jsou obrázky pro animaci hráče. Tyto obrázky nevyužívám, ale lze je v budoucnu použít pro vylepšení hry
 Podobně v souboru *background* jsou obrázky *background_x* x = 1 - 8, jedná se o obrázky různých pozadí, lze je využít podobně
