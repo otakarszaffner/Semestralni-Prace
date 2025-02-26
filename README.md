@@ -33,3 +33,6 @@ V souboru *images/player/player_animations* jsou obrázky pro animaci hráče. T
 Podobně v souboru *background* jsou obrázky *background_x* x = 1 - 8, jedná se o obrázky různých pozadí, lze je využít podobně
 V souboru *menu* je obrázek *button_generic* jedná se o defaultní obrázek ze kterého jsem vytvořil obrázky ostatních tlačítek, lze ho využít pro budoucí tvorbu dalších tlačítek
 
+### Zdroje
+Obrazky ikon itemu: https://github.com/russs123/Shooter/tree/main/img/icons
+Obrazky tlačítek a logika menu: https://github.com/russs123/pygame_tutorials/tree/main/Menu
