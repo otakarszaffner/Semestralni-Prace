@@ -35,4 +35,4 @@ V souboru *menu* je obrázek *button_generic* jedná se o defaultní obrázek ze
 
 ### Zdroje
 Obrazky ikon itemu: https://github.com/russs123/Shooter/tree/main/img/icons
-Obrazky tlačítek a logika menu: https://github.com/russs123/pygame_tutorials/tree/main/Menu
+\nObrazky tlačítek a logika menu: https://github.com/russs123/pygame_tutorials/tree/main/Menu
